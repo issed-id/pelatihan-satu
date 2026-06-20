@@ -1,44 +1,52 @@
-# 📊 Git & Version Control Training | ISSED
+# 📊 Pelatihan Git & Version Control | ISSED
 
-Welcome to the official Git training repository for the **Institute for Statistics and Socio-Ecological Development (ISSED)**! 
+Selamat datang di repositori resmi pelatihan **Git untuk Institute for Statistics and Socio-Ecological Development (ISSED)!**
 
-This repository is designed to help ISSED researchers, data analysts, and consultants master Git and version control. Whether you are managing datasets, collaborating on research designs, or writing data visualization code, version control is essential for tracking changes and collaborating effectively.
-
----
-
-## 🎯 Objective
-By the end of this training, participants will be able to:
-* Understand the core concepts of version control and Git.
-* Track changes in research files, scripts, and documentation.
-* Collaborate seamlessly with other ISSED team members using remote repositories (GitHub/GitLab).
-* Confidently handle branches, merges, and resolve conflicts.
+Repositori ini dirancang untuk membantu peneliti, analis data, dan konsultan ISSED dalam memahami serta menguasai Git dan version control. Baik dalam mengelola dataset, berkolaborasi dalam penyusunan desain penelitian, maupun membuat kode untuk visualisasi data, version control merupakan kemampuan penting untuk melacak perubahan dan mendukung kolaborasi yang efektif.
 
 ---
 
-## ⚙️ Prerequisites
+## 🎯 Tujuan
 
-Before the training session begins, please ensure you have the following installed and set up on your machine:
+Setelah mengikuti pelatihan ini, peserta diharapkan mampu:
 
-1. **Install Git:**
-   * **Windows:** Download and install [Git for Windows](https://gitforwindows.org/).
-   * **macOS:** Install via Homebrew (`brew install git`) or download from [git-scm.com](https://git-scm.com/).
-   * **Linux:** Install via your package manager (e.g., `sudo apt install git`).
-2. **Create an Account:**
-   * Sign up for a free account on [GitHub](https://github.com/) (or the platform ISSED is using, such as GitLab).
-3. **Code Editor:**
-   * Install a modern text editor like [Visual Studio Code](https://code.visualstudio.com/), RStudio, or Jupyter Notebook, depending on your data workflow.
+* Memahami konsep dasar version control dan Git.
+* Melacak perubahan pada file penelitian, script, dan dokumentasi.
+* Berkolaborasi secara efektif dengan anggota tim ISSED menggunakan repositori remote (GitHub/GitLab).
+* Mengelola branch, melakukan merge, serta menyelesaikan konflik dengan percaya diri.
 
 ---
 
-## 🚀 Getting Started
+## ⚙️ Persiapan Awal
 
-To get started with this training, you will need to clone this repository to your local machine. 
+Sebelum sesi pelatihan dimulai, pastikan perangkat Anda telah memiliki beberapa kebutuhan berikut:
 
-Open your terminal (or Git Bash on Windows) and run:
+### 1. **Install Git**
+
+* **Windows:** Unduh dan instal [Git for Windows](https://gitforwindows.org/).
+* **macOS:** Instal melalui Homebrew (`brew install git`) atau unduh melalui [git-scm.com](https://git-scm.com/).
+* **Linux:** Instal melalui package manager yang tersedia (contoh: `sudo apt install git`).
+
+### 2. **Membuat Akun**
+
+* Buat akun gratis di [GitHub](https://github.com/) (atau platform yang digunakan oleh ISSED, seperti GitLab).
+
+### 3. **Code Editor**
+
+* Instal text editor modern seperti [Visual Studio Code](https://code.visualstudio.com/), RStudio, atau Jupyter Notebook sesuai dengan alur kerja pengolahan data yang digunakan.
+
+---
+
+## 🚀 Memulai Pelatihan
+
+Untuk memulai pelatihan ini, Anda perlu melakukan clone repositori ke komputer lokal.
+
+Buka terminal (atau Git Bash pada Windows), kemudian jalankan perintah berikut:
 
 ```bash
-# Clone the repository
+# Clone repositori
 git clone [https://github.com/your-org/issed-git-training.git](https://github.com/your-org/issed-git-training.git)
 
-# Navigate into the project folder
+# Masuk ke folder project
 cd issed-git-training
+```
